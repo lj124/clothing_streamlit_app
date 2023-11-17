@@ -1,1 +1,3 @@
-main python file
+import streamlit
+
+streamlit.title('New Healthy Diner')
